@@ -1,7 +1,7 @@
 
-This is an implementation of the "Spotify iOS SDK"-[QuickStart](https://developer.spotify.com/documentation/ios/quick-start/) Example App using SwiftUI Lifecycle
-This implementation includes playing specific Playlist and specific album, with stop and pause button. 
-This implementation includes basic usage of Combine framework.
+##This is an implementation of the "Spotify iOS SDK"-[QuickStart](https://developer.spotify.com/documentation/ios/quick-start/) Example App using SwiftUI Lifecycle
+### This implementation includes playing specific Playlist and specific album, with stop and pause button. 
+### This implementation includes basic usage of Combine framework.
 
 ## Additional Info
 
